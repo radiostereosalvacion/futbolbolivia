@@ -1,0 +1,14 @@
+{
+	"is_banner": "false",
+	"is_interstitial": "false",
+	"is_native": "false",
+	"ad_network_type":"admob",
+	"unity_game_id":"",
+	"banner_ad_id":"ca-app-pub-8220694418030510/2569187589",
+	"interstitial_ad_id":"ca-app-pub-8220694418030510/5742145836",
+	"interstitial_ad_num":"2",
+	"native_ad_id":"ca-app-pub-3940256099942544/2247696110",
+	"app_update":"false",
+	"app_update_msg":"NEW APP AVAILABLE, all matches will be seen in another application and you can download it from Play Store",
+	"app_update_link":"https://play.google.com/store/apps/"
+}
