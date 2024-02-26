@@ -1,19 +1,61 @@
 {
 	"event_slider": [
-		{
-			"event_name_time": "Eliminatorias 2026",
-			"event_image_url": "https://i.imgur.com/pYH9nT1.jpg",  
+	    {
+			"event_name_time": "",
+			"event_image_url": "https://static.eldeber.com.bo/Files/Sizes/2023/5/31/diez_1557141592_1140x520.png",  
 			"event_type_url": "Web",
 			"event_url_1": "",
-			"event_url_2": "",
+			"event_url_2": "https://lavozelalto.com/noticias/nelson-cabrera-es-nuevo-jugador-de-nacional-potosi/",
 			"event_url_3": "",
 			"event_url_4": ""
 		}
 	],
-	"event_date": "Miercoles 21 de Enero de 2024 ",
+	"event_date": "",
 	"events": [
-	    {
-			"event_name_time": "NOTA: Se detiene la transmision? Simplemente actualiza o recarga la aplicacion.",
+		{
+			"event_name_time": "Noticias del deporte",
+			"event_type_url": "web",
+			"event_url_1": "https://amazonica.pe/4039/deporte/escolares-sanmartinenses-obtienen-medallas-juegos-sudamericanos-asuncion-2019",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "El joven Always Ready va por otra víctima – El Diario",
+			"event_type_url": "web",
+			"event_url_1": "https://lavozelalto.com/noticias/el-joven-always-ready-va-por-otra-victima-el-diario/",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "Palmaflor y Always Ready jugarán este miércoles su partido reprogramado",
+			"event_type_url": "web",
+			"event_url_1": "https://lavozelalto.com/noticias/palmaflor-y-always-ready-jugaran-este-miercoles-su-partido-reprogramado/",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "",
 			"event_type_url": "Exo",
 			"event_url_1": "",
 			"event_url_2": "",
@@ -41,191 +83,9 @@
 			"event_url_0": ""
 		},
 		{
-			"event_name_time": "13:30 Manchester United vs Tottenham (HD)",
-			"event_type_url": "Web",
-			"event_url_1": "https://verfutboltv.net/newstar.php?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/01/14/Manchester_United_vs_Tott_20240114_1705243557019/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/B15EA888DA256384B189D4711E589D2D5F0760D8634C9B4A9DFCF9DC7600B4BD/scale?width=1920&aspectRatio=1.78&format=jpeg&key=8b1262dc477f42a5b85f0f776fb758ac&key2=c60d56a7101e72b78fd99f26d7dfc9f1",
-			"event_url_2": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_3": "https://v3.sportsonline.so/channels/hd/hd2.php",
-			"event_url_4": "https://v3.sportsonline.so/channels/pt/eleven1.php",
-			"event_url_5": "https://v3.sportsonline.so/channels/bra/br3.php",
-			"event_url_6": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_7": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_8": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_9": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_0": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8"
-		},
-		{
-			"event_name_time": "13:30 Borussia Mgladbach vs Stuttgart",
-			"event_type_url": "Exo",
-			"event_url_1": "https://verfutboltv.net/newstar.php?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/01/14/Vfl_Borussia_Monchengladb_20240114_1705243828039/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/0872DBDA3897D47370A123157A45BE787B7A623F7A68B47142806561C61415FA/scale?width=1920&aspectRatio=1.78&format=jpeg&key=22c93b2b62a74fcbab05808d30f186ab&key2=aae9a4bcdb91766b7334e9b064174f25",
-			"event_url_2": "https://v3.sportsonline.so/channels/hd/hd3.php",
-			"event_url_3": "https://v3.sportsonline.so/channels/pt/eleven3.php",
-			"event_url_4": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_5": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_6": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_7": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_8": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_9": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
-			"event_url_0": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8"
-		},
-		{
-			"event_name_time": "13:30 Le Havre vs Lyon",
-			"event_type_url": "Web",
-			"event_url_1": "https://verfutboltv.net/newstar.php?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/01/14/Le_Havre_AC_vs_Lyon_20240114_1705242341064/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/F57BDDE81081806974F5567F11148B88D5658B1B970A14F828BBD42F244D77FA/scale?width=1920&aspectRatio=1.78&format=jpeg&key=e8067f573ddc47a99a1f10aa16b81740&key2=63bd0d9179e01bfbd3858c330ac5d326",
-			"event_url_2": "https://v3.sportsonline.so/channels/hd/hd1.php",
-			"event_url_3": "https://v3.sportsonline.so/channels/hd/hd4.php",
-			"event_url_4": "https://v3.sportsonline.so/channels/bra/br2.php",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "14:00 Fiorentina vs Udinese",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "https://v3.sportsonline.so/channels/hd/hd5.php",
-			"event_url_3": "https://v3.sportsonline.so/channels/hd/hd7.php",
-			"event_url_4": "https://v3.sportsonline.so/channels/pt/sporttv3.php ",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "15:00 Egipto vs Mozambique",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "https://v3.sportsonline.so/channels/hd/hd9.php",
-			"event_url_3": "https://v3.sportsonline.so/channels/pt/sporttv5.php",
-			"event_url_4": "https://v3.sportsonline.so/channels/bra/br4.php",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "15:00 Pumas UNAM vs Juarez",
-			"event_type_url": "Exo",
-			"event_url_1": "",
-			"event_url_2": "https://03yxmgcr.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8",
-			"event_url_3": "https://03yxmgcr.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "16:00 Real Madrid vs FC Barcelona",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "16:45 Milan vs Roma",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "16:45 Lens vs PSG",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "17:00 Ghana vs Cabo Verde",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "19:00 Sporting Crystal vs U Catolica",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "20:00 Deportivo Cali vs Cerro Porteño",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "20:00 River Plate URU vs Velez",
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": "",
-			"event_url_5": "",
-			"event_url_6": "",
-			"event_url_7": "",
-			"event_url_8": "",
-			"event_url_9": "",
-			"event_url_0": ""
-		},
-		{
-			"event_name_time": "22:15 Peñarol vs Newells",
-			"event_type_url": "Web",
-			"event_url_1": "",
+			"event_name_time": "Politica de Privacidad",
+			"event_type_url": "web",
+			"event_url_1": "https://sites.google.com/view/policy-futbolbolivia/",
 			"event_url_2": "",
 			"event_url_3": "",
 			"event_url_4": "",
@@ -239,47 +99,5 @@
 
 	],
 	"event_tv_channel": [
-	    {
-			"event_name_channel": "ATB",
-			"event_image_url": "http://imgfz.com/i/Yayf8HW.png", 
-			"event_type_url": "Exo",
-			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8"
-		},
-		{
-			"event_name_channel": "Canal 9 AR",
-			"event_image_url": "http://imgfz.com/i/zo0gHT4.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8"
-		},
-		{
-			"event_name_channel": "Panamericana",
-			"event_image_url": "http://imgfz.com/i/RaMBfDn.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://cdnhd.iblups.com/hls/ptv5.m3u8"
-		},
-		{
-			"event_name_channel": "Tv Peru",
-			"event_image_url": "http://imgfz.com/i/aQBVZjW.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
-		},
-		{
-			"event_name_channel": "Canal NET",
-			"event_image_url": "http://imgfz.com/i/mwqgD6F.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
-		},
-		{
-			"event_name_channel": "Unitel",
-			"event_image_url": "http://imgfz.com/i/k1tGDVe.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
-		},
-		{
-			"event_name_channel": "America",
-			"event_image_url": "http://imgfz.com/i/jmSvteP.jpeg", 
-			"event_type_url": "Exo",
-			"event_url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
-		}
 	]
 }
