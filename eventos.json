@@ -1,5 +1,14 @@
 {
 	"event_slider": [
+		{
+			"event_name_time": "Eliminatorias 2026",
+			"event_image_url": "https://i.imgur.com/pYH9nT1.jpg",  
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
 	],
 	"event_date": "Miercoles 21 de Enero de 2024 ",
 	"events": [
