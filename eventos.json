@@ -1,32 +1,5 @@
 {
 	"event_slider": [
-		{
-			"event_name_time": "Champions League 8vos",
-			"event_image_url": "https://i.imgur.com/h5HPIFQ.jpeg",  
-			"event_type_url": "Web",
-			"event_url_1": "1",
-			"event_url_2": "2",
-			"event_url_3": "2",
-			"event_url_4": "2"
-		},
-		{
-			"event_name_time": "Copa Libertadores Fase 2",
-			"event_image_url": "https://i.imgur.com/17Dedwm.jpeg",  
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": ""
-		},
-		{
-			"event_name_time": "Copa Libertadores Fase 2",
-			"event_image_url": "https://i.imgur.com/SfjANZ0.jpeg",  
-			"event_type_url": "Web",
-			"event_url_1": "",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": ""
-		}
 	],
 	"event_date": "Miercoles 21 de Enero de 2024 ",
 	"events": [
