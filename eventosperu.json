@@ -1,0 +1,103 @@
+{
+	"event_slider": [
+	    {
+			"event_name_time": "",
+			"event_image_url": "https://static.eldeber.com.bo/Files/Sizes/2023/5/31/diez_1557141592_1140x520.png",  
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "https://lavozelalto.com/noticias/nelson-cabrera-es-nuevo-jugador-de-nacional-potosi/",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
+	],
+	"event_date": "",
+	"events": [
+		{
+			"event_name_time": "Noticias del deporte",
+			"event_type_url": "web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "https://premiumsportsbo.com/seccion/futbol/",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "El joven Always Ready va por otra víctima – El Diario",
+			"event_type_url": "web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "https://lavozelalto.com/noticias/el-joven-always-ready-va-por-otra-victima-el-diario/",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "Palmaflor y Always Ready jugarán este miércoles su partido reprogramado",
+			"event_type_url": "web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "https://lavozelalto.com/noticias/palmaflor-y-always-ready-jugaran-este-miercoles-su-partido-reprogramado/",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "Politica de Privacidad",
+			"event_type_url": "web",
+			"event_url_1": "https://sites.google.com/view/policy-futbolbolivia/",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		}
+
+	],
+	"event_tv_channel": [
+	]
+}
